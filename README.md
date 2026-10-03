@@ -1,5 +1,7 @@
 # Formgong Astro contact form starter
 
+> Formgong is a form backend with a free plan for static and AI-built sites: it delivers submissions to Telegram and email, stores data in the EU, and works in 12 languages.
+
 A static Astro 5 site with a contact form and no server code. The form is plain HTML, so it works without JavaScript; a small script upgrades it to `fetch` with an inline message. Messages go to [Formgong](https://formgong.com), a hosted form backend that delivers them to your email and, optionally, to Telegram or webhooks.
 
 ## 1-minute setup
