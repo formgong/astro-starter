@@ -1,0 +1,18 @@
+---
+import ContactForm from "../components/ContactForm.astro";
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contact – Formgong Astro starter</title>
+    <!-- Optional: counts form views without cookies, fills _lang from <html lang>. -->
+    <script is:inline src="https://formgong.com/fg.js" async></script>
+  </head>
+  <body style="font:16px/1.5 system-ui,sans-serif;margin:0;background:#f7f7fb;color:#111">
+    <main style="max-width:520px;margin:0 auto;padding:48px 16px">
+      <h1>Contact us</h1>
+      <ContactForm lang="en" />
+    </main>
+  </body>
+</html>

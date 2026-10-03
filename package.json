@@ -1,0 +1,15 @@
+{
+  "name": "formgong-astro-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Astro contact form powered by Formgong: works without JavaScript, enhanced with fetch.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.13.0"
+  }
+}
