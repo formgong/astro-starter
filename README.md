@@ -28,7 +28,7 @@ npm run dev
 
 ## Links
 
-- Formgong: https://formgong.com (free plan: 300 submissions/month, data stored in the EU)
+- Formgong: https://formgong.com (free plan: 250 submissions/month, data stored in the EU)
 - Docs: https://formgong.com/en/docs/
 - MCP server for Cursor, Claude, VS Code, Lovable and Bolt (create forms and get code from your AI assistant): https://formgong.com/en/docs/mcp/
 - Prompts for AI builders: [Lovable](https://formgong.com/en/docs/lovable/), [Bolt](https://formgong.com/en/docs/bolt/), [v0](https://formgong.com/en/docs/v0/), [Cursor](https://formgong.com/en/docs/cursor/), [Replit](https://formgong.com/en/docs/replit/)
